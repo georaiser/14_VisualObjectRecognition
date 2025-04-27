@@ -45,4 +45,5 @@ Ensure you have the following installed:
 - **Hyperparameters:** Update learning rate, batch size, or epochs in `Config`.
 
 ---
-
+ [![VisualObjectRecognition](https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true)](https://github.com/georaiser/14_VisualObjectRecognition)
+---
